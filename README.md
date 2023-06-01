@@ -22,8 +22,6 @@ git clone https://github.com/micilini/Evental.git
 
 Se você estiver começando agora, recomendamos que os arquivos deste projeto estejam salvos na sua ```área de trabalho```.
 
-![Tela 04](http://chickensteen.com.br/assets/images/telas/tela-04.png)
-
 ## Configurações Inicias (Raiz do Projeto)
 
 Com a raíz do projeto aberta no ```CMD``` (```Prompt de Comando``` ou ```Terminal```), execute o comando:
